@@ -133,7 +133,7 @@
         label-width="70px"
       >
         <el-form-item label="用户名">
-          <el-input v-model="editForm.username" disabled="true"></el-input>
+          <el-input v-model="editForm.username" :disabled="true"></el-input>
         </el-form-item>
         <el-form-item label="邮箱" prop="email">
           <el-input v-model="editForm.email"></el-input>
