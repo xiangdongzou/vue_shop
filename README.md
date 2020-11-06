@@ -2,7 +2,7 @@
 
 1.login页面
 
-![](https://github.com/xiangdongzou/vue_shop/blob/master/img/v1.jpg)
+![](img/v1.jpg)
 
 2.登录进去之后的welcome页面,主页情况预览
 
